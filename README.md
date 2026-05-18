@@ -1,6 +1,5 @@
-================================================================================
   VPS Hardening Scripts
-================================================================================
+
 
 Two bash scripts that secure a freshly provisioned VPS (AlmaLinux or Ubuntu)
 in one shot: SSH hardening, automatic security updates, fail2ban, and a
